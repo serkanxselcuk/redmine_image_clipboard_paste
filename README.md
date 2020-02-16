@@ -12,9 +12,11 @@ Plugin for redmine which allows pasting image data from the clipboard directly i
 ## Getting the plugin
 
 A copy of the plugin can be downloaded from GitHub:
+
 https://github.com/serkanxselcuk/redmine_image_clipboard_paste
 
 This repository is forked from:
+
 https://github.com/thorin/redmine_image_clipboard_paste [2020-02-16]
 
 ## Installation
